@@ -1,1 +1,1 @@
-# simp;e weather app to revise python basics
+# simple weather app to revise python basics
